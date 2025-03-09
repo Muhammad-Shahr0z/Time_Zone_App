@@ -22,7 +22,7 @@ A simple and visually appealing web app built with Streamlit that allows users t
    ```
 3. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ## Project Structure
@@ -30,7 +30,7 @@ A simple and visually appealing web app built with Streamlit that allows users t
 - `requirements.txt`: List of required dependencies.
 
 ## Usage
-1. Run the app using `streamlit run app.py`.
+1. Run the app using `streamlit run main.py`.
 2. Select desired time zones from the dropdown.
 3. View real-time updates of selected time zones.
 
